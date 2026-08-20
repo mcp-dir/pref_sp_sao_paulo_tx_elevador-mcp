@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/pref_sp_sao_paulo_tx_elevador-mcp",
+  "title": "Prefeitura SP São Paulo: 2ª Via da Taxa de Elevadores",
+  "description": "Prefeitura SP São Paulo: 2ª Via da Taxa de Elevadores, official-source lookup. Platform-hosted, pay ",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/pref_sp_sao_paulo_tx_elevador-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_pref_sp_sao_paulo_tx_elevador"
+    }
+  ]
+}
